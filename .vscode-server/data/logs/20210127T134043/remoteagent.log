@@ -1,0 +1,19 @@
+[2021-01-27 13:40:48.271] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-27 13:40:48.272] [remoteagent] [info] Extension host agent started.
+[2021-01-27 13:40:54.655] [remoteagent] [info] Deleted from disk golang.go /home/diegato/.vscode-server/extensions/golang.go-0.20.2
+[2021-01-27 13:40:54.746] [remoteagent] [info] [::ffff:172.28.80.1][774474d0][ManagementConnection] New connection established.
+[2021-01-27 13:40:54.803] [remoteagent] [info] [::ffff:172.28.80.1][ffa908d9][ExtensionHostConnection] New connection established.
+[2021-01-27 13:40:55.209] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-27 13:40:55.516] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/proyectoPersonal/.vscode'
+[2021-01-27 13:40:55.519] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/proyectoPersonal/primerHtml.html/.vscode'
+[2021-01-27 13:40:55.615] [remoteagent] [info] [::ffff:172.28.80.1][ffa908d9][ExtensionHostConnection] <201> Launched Extension Host Process.
+[2021-01-27 13:41:30.337] [remoteagent] [info] [::ffff:172.28.80.1][ffa908d9][ExtensionHostConnection] The client has reconnected.

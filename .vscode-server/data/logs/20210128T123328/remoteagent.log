@@ -1,0 +1,31 @@
+[2021-01-28 12:33:29.444] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-28 12:33:29.444] [remoteagent] [info] Extension host agent started.
+[2021-01-28 12:33:32.373] [remoteagent] [info] [::ffff:172.26.32.1][595ad5a0][ExtensionHostConnection] New connection established.
+[2021-01-28 12:33:32.388] [remoteagent] [info] [::ffff:172.26.32.1][b61f715c][ManagementConnection] New connection established.
+[2021-01-28 12:33:32.775] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-28 12:33:34.334] [remoteagent] [info] [::ffff:172.26.32.1][595ad5a0][ExtensionHostConnection] <248> Launched Extension Host Process.
+[2021-01-28 12:33:47.002] [remoteagent] [info] Installing extension: golang.go
+[2021-01-28 12:33:47.005] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-01-28 12:33:53.820] [remoteagent] [info] Downloaded extension: golang.go undefined
+[2021-01-28 12:33:57.159] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.golang.go-0.22.0: golang.go
+[2021-01-28 12:33:57.163] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/golang.go-0.22.0
+[2021-01-28 12:33:57.195] [remoteagent] [info] Installation completed. golang.go
+[2021-01-28 12:33:57.567] [remoteagent] [info] Extensions installed successfully: golang.go
+[2021-01-28 12:34:11.841] [remoteagent] [info] [::ffff:172.26.32.1][595ad5a0][ExtensionHostConnection] The client has reconnected.
+[2021-01-28 12:34:21.533] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare undefined
+[2021-01-28 12:34:39.623] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.ms-vsliveshare.vsliveshare-1.0.3577: ms-vsliveshare.vsliveshare
+[2021-01-28 12:34:39.625] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.3577
+[2021-01-28 12:34:39.667] [remoteagent] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2021-01-28 12:34:39.995] [remoteagent] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2021-01-28 12:37:08.030] [remoteagent] [info] [::ffff:172.26.32.1][b61f715c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-28 12:37:09.761] [remoteagent] [info] [::ffff:172.26.32.1][595ad5a0][ExtensionHostConnection] <248> Extension Host Process exited with code: 0, signal: null.
+[2021-01-28 12:37:09.764] [remoteagent] [info] Last EH closed, waiting before shutting down

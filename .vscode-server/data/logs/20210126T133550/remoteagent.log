@@ -1,0 +1,24 @@
+[2021-01-26 13:35:50.933] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-26 13:35:50.933] [remoteagent] [info] Extension host agent started.
+[2021-01-26 13:35:52.600] [remoteagent] [info] [::ffff:172.28.80.1][c319ac70][ManagementConnection] New connection established.
+[2021-01-26 13:35:52.619] [remoteagent] [info] [::ffff:172.28.80.1][6c229467][ExtensionHostConnection] New connection established.
+[2021-01-26 13:35:52.988] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-26 13:35:53.312] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/diegato/ProyectosPersonal/.vscode'
+[2021-01-26 13:35:54.411] [remoteagent] [info] [::ffff:172.28.80.1][6c229467][ExtensionHostConnection] <566> Launched Extension Host Process.
+[2021-01-26 13:36:02.521] [remoteagent] [info] Installing extension: golang.go
+[2021-01-26 13:36:06.672] [remoteagent] [info] Downloaded extension: golang.go undefined
+[2021-01-26 13:36:07.464] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.golang.go-0.21.1: golang.go
+[2021-01-26 13:36:07.466] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/golang.go-0.21.1
+[2021-01-26 13:36:07.508] [remoteagent] [info] Installation completed. golang.go
+[2021-01-26 13:36:07.870] [remoteagent] [info] Extensions installed successfully: golang.go
+[2021-01-26 13:36:27.718] [remoteagent] [info] [::ffff:172.28.80.1][6c229467][ExtensionHostConnection] The client has reconnected.
+[2021-01-26 14:43:44.380] [remoteagent] [info] [::ffff:172.28.80.1][c319ac70][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

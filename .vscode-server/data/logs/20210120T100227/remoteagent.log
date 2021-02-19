@@ -1,0 +1,61 @@
+[2021-01-20 10:02:28.486] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-20 10:02:28.486] [remoteagent] [info] Extension host agent started.
+[2021-01-20 10:02:28.693] [remoteagent] [info] [::ffff:172.22.48.1][b346481b][ExtensionHostConnection] New connection established.
+[2021-01-20 10:02:28.728] [remoteagent] [info] [::ffff:172.22.48.1][13f4af09][ManagementConnection] New connection established.
+[2021-01-20 10:02:28.865] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-20 10:02:29.370] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/diegato/.vscode'
+[2021-01-20 10:02:29.862] [remoteagent] [info] [::ffff:172.22.48.1][b346481b][ExtensionHostConnection] <306> Launched Extension Host Process.
+[2021-01-20 10:03:42.603] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2021-01-20 10:03:44.981] [remoteagent] [info] Downloaded extension: naumovs.color-highlight undefined
+[2021-01-20 10:03:46.316] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2021-01-20 10:03:46.319] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/naumovs.color-highlight-2.3.0
+[2021-01-20 10:03:46.336] [remoteagent] [info] Installation completed. naumovs.color-highlight
+[2021-01-20 10:03:46.429] [remoteagent] [info] Extensions installed successfully: naumovs.color-highlight
+[2021-01-20 10:04:28.242] [remoteagent] [info] Installing extension: golang.go
+[2021-01-20 10:04:32.112] [remoteagent] [info] Downloaded extension: golang.go undefined
+[2021-01-20 10:04:33.016] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.golang.go-0.20.2: golang.go
+[2021-01-20 10:04:33.017] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/golang.go-0.20.2
+[2021-01-20 10:04:33.032] [remoteagent] [info] Installation completed. golang.go
+[2021-01-20 10:04:33.120] [remoteagent] [info] Extensions installed successfully: golang.go
+[2021-01-20 10:04:39.258] [remoteagent] [info] Installing extension: hdg.live-html-previewer
+[2021-01-20 10:04:41.694] [remoteagent] [info] Downloaded extension: hdg.live-html-previewer undefined
+[2021-01-20 10:04:42.434] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.hdg.live-html-previewer-0.3.0: hdg.live-html-previewer
+[2021-01-20 10:04:42.438] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/hdg.live-html-previewer-0.3.0
+[2021-01-20 10:04:42.443] [remoteagent] [info] Installation completed. hdg.live-html-previewer
+[2021-01-20 10:04:42.521] [remoteagent] [info] Extensions installed successfully: hdg.live-html-previewer
+[2021-01-20 10:04:53.138] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2021-01-20 10:05:01.943] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver undefined
+[2021-01-20 10:05:43.280] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2021-01-20 10:05:43.292] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/ritwickdey.liveserver-5.6.1
+[2021-01-20 10:05:43.361] [remoteagent] [info] Installation completed. ritwickdey.liveserver
+[2021-01-20 10:05:43.729] [remoteagent] [info] Extensions installed successfully: ritwickdey.liveserver
+[2021-01-20 10:05:50.023] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-01-20 10:06:20.961] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare undefined
+[2021-01-20 10:06:28.899] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.ms-vsliveshare.vsliveshare-1.0.3484: ms-vsliveshare.vsliveshare
+[2021-01-20 10:06:28.911] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.3484
+[2021-01-20 10:06:28.945] [remoteagent] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2021-01-20 10:06:29.070] [remoteagent] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2021-01-20 10:06:31.544] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2021-01-20 10:06:34.111] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense undefined
+[2021-01-20 10:06:35.723] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.christian-kohler.path-intellisense-2.3.0: christian-kohler.path-intellisense
+[2021-01-20 10:06:35.725] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/christian-kohler.path-intellisense-2.3.0
+[2021-01-20 10:06:35.739] [remoteagent] [info] Installation completed. christian-kohler.path-intellisense
+[2021-01-20 10:06:36.053] [remoteagent] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2021-01-20 10:06:38.252] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2021-01-20 10:06:53.309] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-01-20 10:06:56.086] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.esbenp.prettier-vscode-5.8.0: esbenp.prettier-vscode
+[2021-01-20 10:06:56.087] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/esbenp.prettier-vscode-5.8.0
+[2021-01-20 10:06:56.116] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2021-01-20 10:06:56.602] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-01-20 10:19:09.417] [remoteagent] [info] [::ffff:172.22.48.1][13f4af09][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-20 10:19:12.154] [remoteagent] [info] [::ffff:172.22.48.1][b346481b][ExtensionHostConnection] <306> Extension Host Process exited with code: 0, signal: null.
+[2021-01-20 10:19:12.158] [remoteagent] [info] Last EH closed, waiting before shutting down

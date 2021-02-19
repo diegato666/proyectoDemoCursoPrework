@@ -1,0 +1,21 @@
+[2021-01-28 13:02:11.059] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-28 13:02:11.060] [remoteagent] [info] Extension host agent started.
+[2021-01-28 13:02:11.858] [remoteagent] [info] [::ffff:172.26.32.1][9d076cef][ManagementConnection] New connection established.
+[2021-01-28 13:02:11.892] [remoteagent] [info] [::ffff:172.26.32.1][3299eccb][ExtensionHostConnection] New connection established.
+[2021-01-28 13:02:12.393] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-28 13:02:13.382] [remoteagent] [info] [::ffff:172.26.32.1][3299eccb][ExtensionHostConnection] <914> Launched Extension Host Process.
+[2021-01-28 13:02:13.392] [remoteagent] [info] Deleted from disk golang.go /home/diegato/.vscode-server/extensions/golang.go-0.21.1
+[2021-01-28 13:02:17.457] [remoteagent] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/diegato/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.3484
+[2021-01-28 13:03:08.565] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/mnt/c/Users/mango/AppData/Local/Datos de programa" points to "/mnt/c/Users/mango/AppData/Local"
+[2021-01-28 13:08:02.238] [remoteagent] [info] [::ffff:172.26.32.1][9d076cef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-28 13:08:03.516] [remoteagent] [info] [::ffff:172.26.32.1][3299eccb][ExtensionHostConnection] <914> Extension Host Process exited with code: 0, signal: null.
+[2021-01-28 13:08:03.518] [remoteagent] [info] Last EH closed, waiting before shutting down

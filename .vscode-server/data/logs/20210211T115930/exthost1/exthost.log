@@ -1,0 +1,27 @@
+[2021-02-11 11:59:46.947] [exthost] [info] extension host started
+[2021-02-11 11:59:48.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-11 11:59:48.020] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/debug-auto-launch/dist/extension
+[2021-02-11 11:59:48.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-11 11:59:48.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/emmet/dist/node/emmetNodeMain
+[2021-02-11 11:59:49.648] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-11 11:59:49.648] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/git/dist/main
+[2021-02-11 11:59:50.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-11 11:59:50.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/merge-conflict/dist/mergeConflictMain
+[2021-02-11 11:59:51.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-11 11:59:51.017] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/search-result/dist/extension.js
+[2021-02-11 11:59:51.686] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-02-11 11:59:51.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-02-11 11:59:53.723] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2021-02-11 11:59:53.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.3577/out/prod/extension-prod
+[2021-02-11 11:59:57.267] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2021-02-11 11:59:57.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2021-02-11 11:59:57.462] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-02-11 11:59:57.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-02-11 12:00:12.934] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-02-11 12:00:12.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/ms-vscode.js-debug/src/extension.js
+[2021-02-11 12:00:15.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-02-11 12:00:15.828] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/github/dist/extension.js
+[2021-02-11 12:00:17.615] [exthost] [info] ExtensionService#_doActivateExtension golang.go {"startup":true,"extensionId":{"value":"golang.go","_lower":"golang.go"},"activationEvent":"workspaceContainsTimeout:**/*.go"}
+[2021-02-11 12:00:17.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/extensions/golang.go-0.22.0/dist/goMain.js
+[2021-02-11 12:00:20.035] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-02-11 12:00:20.036] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/diegato/.vscode-server/extensions/esbenp.prettier-vscode-5.8.0/dist/extension

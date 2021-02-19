@@ -1,0 +1,26 @@
+[2021-02-11 11:59:30.528] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-02-11 11:59:30.528] [remoteagent] [info] Extension host agent started.
+[2021-02-11 11:59:32.503] [remoteagent] [info] [::ffff:172.30.208.1][a2dabfc5][ManagementConnection] New connection established.
+[2021-02-11 11:59:32.532] [remoteagent] [info] [::ffff:172.30.208.1][ba4683a6][ExtensionHostConnection] New connection established.
+[2021-02-11 11:59:33.058] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-02-11 11:59:33.386] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/.vscode'
+[2021-02-11 11:59:35.251] [remoteagent] [info] [::ffff:172.30.208.1][ba4683a6][ExtensionHostConnection] <905> Launched Extension Host Process.
+[2021-02-11 11:59:46.349] [remoteagent] [info] Installing extension: golang.go
+[2021-02-11 11:59:46.379] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-02-11 11:59:58.628] [remoteagent] [info] Downloaded extension: golang.go undefined
+[2021-02-11 12:00:02.751] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.golang.go-0.22.1: golang.go
+[2021-02-11 12:00:02.754] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/golang.go-0.22.1
+[2021-02-11 12:00:02.776] [remoteagent] [info] Installation completed. golang.go
+[2021-02-11 12:00:03.080] [remoteagent] [info] Extensions installed successfully: golang.go
+[2021-02-11 12:00:13.513] [remoteagent] [info] [::ffff:172.30.208.1][ba4683a6][ExtensionHostConnection] The client has reconnected.
+[2021-02-11 12:01:19.398] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare undefined
+[2021-02-11 12:01:25.117] [remoteagent] [info] [::ffff:172.30.208.1][a2dabfc5][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

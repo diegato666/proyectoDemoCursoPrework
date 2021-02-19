@@ -1,0 +1,26 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'star' ]
+2 info using npm@6.14.4
+3 info using node@v10.19.0
+4 verbose npm-session 764096ae8cd9f2c3
+5 verbose stack Error: npm star [<pkg>...]
+5 verbose stack npm unstar [<pkg>...]
+5 verbose stack
+5 verbose stack alias: unstar
+5 verbose stack     at BB.try (/usr/share/npm/lib/star.js:35:29)
+5 verbose stack     at tryCatcher (/usr/lib/nodejs/bluebird/js/release/util.js:16:23)
+5 verbose stack     at Function.Promise.attempt.Promise.try (/usr/lib/nodejs/bluebird/js/release/method.js:39:29)
+5 verbose stack     at EventEmitter.star (/usr/share/npm/lib/star.js:34:16)
+5 verbose stack     at Object.commandCache.(anonymous function) (/usr/share/npm/lib/npm.js:156:13)
+5 verbose stack     at EventEmitter.<anonymous> (/usr/share/npm/bin/npm-cli.js:131:30)
+5 verbose stack     at process._tickCallback (internal/process/next_tick.js:61:11)
+6 verbose cwd /
+7 verbose Linux 5.4.72-microsoft-standard-WSL2
+8 verbose argv "/usr/bin/node" "/usr/bin/npm" "star"
+9 verbose node v10.19.0
+10 verbose npm  v6.14.4
+11 error npm star [<pkg>...]
+11 error npm unstar [<pkg>...]
+11 error
+11 error alias: unstar
+12 verbose exit [ 1, true ]

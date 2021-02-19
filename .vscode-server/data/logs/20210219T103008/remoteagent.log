@@ -1,0 +1,18 @@
+[2021-02-19 10:30:09.005] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-02-19 10:30:09.006] [remoteagent] [info] Extension host agent started.
+[2021-02-19 10:30:10.229] [remoteagent] [info] [::ffff:172.25.160.1][5770929a][ExtensionHostConnection] New connection established.
+[2021-02-19 10:30:10.245] [remoteagent] [info] [::ffff:172.25.160.1][d41371ce][ManagementConnection] New connection established.
+[2021-02-19 10:30:11.612] [remoteagent] [info] Deleted from disk esbenp.prettier-vscode /home/diegato/.vscode-server/extensions/esbenp.prettier-vscode-5.8.0
+[2021-02-19 10:30:12.041] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/.vscode'
+[2021-02-19 10:30:12.221] [remoteagent] [info] [::ffff:172.25.160.1][5770929a][ExtensionHostConnection] <2031> Launched Extension Host Process.
+[2021-02-19 10:30:13.494] [remoteagent] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/diegato/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.3629
+[2021-02-19 10:30:41.139] [remoteagent] [info] [::ffff:172.25.160.1][5770929a][ExtensionHostConnection] The client has reconnected.

@@ -1,0 +1,34 @@
+[2021-02-19 10:17:33.574] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-02-19 10:17:33.574] [remoteagent] [info] Extension host agent started.
+[2021-02-19 10:17:35.218] [remoteagent] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/diegato/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.3577
+[2021-02-19 10:17:35.359] [remoteagent] [info] [::ffff:172.25.160.1][cfaf24b0][ManagementConnection] New connection established.
+[2021-02-19 10:17:35.377] [remoteagent] [info] [::ffff:172.25.160.1][d9945063][ExtensionHostConnection] New connection established.
+[2021-02-19 10:17:35.824] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/.vscode'
+[2021-02-19 10:17:37.312] [remoteagent] [info] [::ffff:172.25.160.1][d9945063][ExtensionHostConnection] <423> Launched Extension Host Process.
+[2021-02-19 10:17:50.376] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2021-02-19 10:17:50.378] [remoteagent] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-02-19 10:18:06.121] [remoteagent] [info] [::ffff:172.25.160.1][d9945063][ExtensionHostConnection] The client has reconnected.
+[2021-02-19 10:18:27.080] [remoteagent] [info] [::ffff:172.25.160.1][d9945063][ExtensionHostConnection] The client has reconnected.
+[2021-02-19 10:18:47.359] [remoteagent] [info] [::ffff:172.25.160.1][d9945063][ExtensionHostConnection] The client has reconnected.
+[2021-02-19 10:18:52.118] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-02-19 10:19:01.042] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.esbenp.prettier-vscode-5.9.2: esbenp.prettier-vscode
+[2021-02-19 10:19:01.044] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/esbenp.prettier-vscode-5.9.2
+[2021-02-19 10:19:01.097] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2021-02-19 10:19:01.655] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-02-19 10:20:04.438] [remoteagent] [info] Downloaded extension: ms-vsliveshare.vsliveshare undefined
+[2021-02-19 10:20:16.412] [remoteagent] [info] Extracted extension to /home/diegato/.vscode-server/extensions/.ms-vsliveshare.vsliveshare-1.0.3784: ms-vsliveshare.vsliveshare
+[2021-02-19 10:20:16.416] [remoteagent] [info] Renamed to /home/diegato/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.3784
+[2021-02-19 10:20:16.438] [remoteagent] [info] Installation completed. ms-vsliveshare.vsliveshare
+[2021-02-19 10:20:16.567] [remoteagent] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2021-02-19 10:29:38.250] [remoteagent] [info] [::ffff:172.25.160.1][cfaf24b0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-02-19 10:29:39.862] [remoteagent] [info] [::ffff:172.25.160.1][d9945063][ExtensionHostConnection] <423> Extension Host Process exited with code: 0, signal: null.
+[2021-02-19 10:29:39.864] [remoteagent] [info] Last EH closed, waiting before shutting down
